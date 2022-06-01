@@ -1,2 +1,2 @@
 #!/bin/bash
-Counts the number of dir
+echo $PATH|tr':''\n'|wc -l
