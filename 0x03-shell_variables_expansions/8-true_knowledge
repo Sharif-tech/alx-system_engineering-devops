@@ -1,2 +1,2 @@
 #!/bin/bash
-True knowledge
+echo $((TRUEKNOWLEDGE+=128))
