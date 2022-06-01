@@ -1,2 +1,2 @@
 #!/bin/bash
-Devide and rule
+echo "$((POWER/DIVIDE))"
